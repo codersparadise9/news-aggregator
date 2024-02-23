@@ -1,2 +1,15 @@
-node_modules
-.tap
+# Node.js related
+node_modules/
+npm-debug.log
+
+# TypeScript related
+*.js
+*.js.map
+*.d.ts
+
+# IDE related (optional, customize as needed)
+.vscode/
+.idea/
+
+# Environment variables
+.env
